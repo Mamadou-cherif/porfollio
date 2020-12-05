@@ -1,0 +1,9 @@
+.titre{
+    font-family: 'Tangerine', serif;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.titre:hover{
+    background-color: rgb(10, 2, 2);
+    opacity: 0.4;
+}
