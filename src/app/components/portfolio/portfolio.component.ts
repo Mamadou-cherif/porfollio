@@ -35,4 +35,44 @@ export class PortfolioComponent implements OnInit {
   openTab(){
     window.open("https://multiservicesapp.netlify.app/client")
   }
+
+/****************************************** For the source code**************************************/
+
+
+  openGitEnginer(){
+   window.open("")
+  }
+
+  openGitUniver(){
+    window.open("https://github.com/Mamadou-cherif/UniversityOfficialApp") 
+  }
+
+  openGitRestaurant(){
+    window.open("https://github.com/Mamadou-cherif/first-restaurant-app")
+
+  }
+
+  openGitMulti(){
+    window.open("https://github.com/Mamadou-cherif/construction")
+
+  }
+
+  OpenGitSeconRestau(){
+    window.open("https://github.com/Mamadou-cherif/restaurantApp2")
+
+  }
+
+  openGitBlogsite(){
+
+    window.open("https://github.com/Mamadou-cherif/PersonnalblogSiteApp")
+
+  }
+
+  openGitPhotography(){
+    window.open("https://github.com/Mamadou-cherif/Photography-app")
+  }
+
+  simpleMessage(){
+    alert("this project is not deployed for now")
+  }
 }

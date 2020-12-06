@@ -11,5 +11,16 @@ export class ContactComponent implements OnInit {
 
   ngOnInit(): void {
   }
+ 
+  openFacebookTab(){
+    window.open("https://www.facebook.com/profile.php?id=100007866630873")
+  }
 
+  openTwitterTab(){
+    window.open("https://www.twitter.com/Mamadoucherifb3")
+  }
+
+  openGithubTab(){
+    window.open("https://github.com/Mamadou-cherif")
+  }
 }
