@@ -30,7 +30,7 @@ export class PortfolioComponent implements OnInit {
   }
 
   openTabBlogSite(){
-    window.open("https://mamadou-cherif.github.io/nouveau/")
+    window.open("https://blogsite-app.netlify.app")
   }
   openTab(){
     window.open("https://multiservicesapp.netlify.app/client")

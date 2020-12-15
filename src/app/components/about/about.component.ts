@@ -25,4 +25,8 @@ export class AboutComponent implements OnInit {
   getTitle2(){
     return this.config.getConfig().aboutParagraphe2
   }
+
+  openTab(){
+    window.open("https://resume.io/r/xDUanhdbj?fbclid=IwAR0EKQxl3TkCKRzVc2dCXPKBnYiO87Yi-qlJen-qEsUXng_YPRpIhV40ask")
+  }
 }
