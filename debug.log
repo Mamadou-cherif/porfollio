@@ -5,3 +5,8 @@
 [1203/013816.855:ERROR:registration_protocol_win.cc(103)] CreateFile: Le fichier spécifié est introuvable. (0x2)
 [1203/020422.428:ERROR:registration_protocol_win.cc(103)] CreateFile: Le fichier spécifié est introuvable. (0x2)
 [1215/185915.996:ERROR:registration_protocol_win.cc(103)] CreateFile: Le fichier spécifié est introuvable. (0x2)
+[1215/191010.889:ERROR:registration_protocol_win.cc(103)] CreateFile: Le fichier spécifié est introuvable. (0x2)
+[0214/112604.899:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0214/112613.790:ERROR:registration_protocol_win.cc(103)] CreateFile: Le fichier spécifié est introuvable. (0x2)
+[0214/112613.816:ERROR:registration_protocol_win.cc(103)] CreateFile: Le fichier spécifié est introuvable. (0x2)
+[0214/112957.103:ERROR:registration_protocol_win.cc(103)] CreateFile: Le fichier spécifié est introuvable. (0x2)

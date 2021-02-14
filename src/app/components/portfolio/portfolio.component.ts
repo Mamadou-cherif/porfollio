@@ -12,6 +12,10 @@ export class PortfolioComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  openRecipesApp(){
+    window.open("https://kitchenpro.netlify.app/homeImage")
+  }
+
   openEduTab(){
     window.open("https://university-website-app.netlify.app/")
   }
@@ -67,12 +71,18 @@ export class PortfolioComponent implements OnInit {
     window.open("https://github.com/Mamadou-cherif/PersonnalblogSiteApp")
 
   }
-
+ 
   openGitPhotography(){
     window.open("https://github.com/Mamadou-cherif/Photography-app")
   }
 
   simpleMessage(){
     alert("this project is not deployed for now")
+  }
+
+
+
+  openRecipeGithubRepo(){
+    window.open("https://github.com/Mamadou-cherif/recipe2")
   }
 }
