@@ -12,4 +12,8 @@ export class AboutImageComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  openLink(){
+    window.open("https://cashy-app.netlify.app")
+  }
+
 }
